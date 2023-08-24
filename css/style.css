@@ -1,0 +1,61 @@
+/* font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: #434455;
+
+}
+.contact-logo:hover, .contact-logo:focus{
+    color: #404BBF;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 2%; 
+}
+
+ul{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 4%;
+}
+    
+button{
+    font-family: 'Roboto', sans-serif;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%; 
+}
+
+a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4%;
+    text-decoration: underline;
+}
+
+    
+
