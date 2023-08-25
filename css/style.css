@@ -1,8 +1,4 @@
-/* font-family: 'Raleway', sans-serif;
-font-family: 'Roboto', sans-serif; */
 
-/* #4D5AE5 iris
-    #2E2F42 navy */
 
 body{
     font-family: 'Roboto', sans-serif;
@@ -11,7 +7,8 @@ body{
     
 }
 
-.header-logo{
+.header-logo,
+.footer-logo{
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -84,7 +81,9 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.section-description-list{
+.section-description-list, 
+.section-tree-description
+.section-four-description{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -95,8 +94,7 @@ body{
     background-color: #F4F4FD;
 }
 
-.team{
-
+.team, .our-portfolio{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -109,7 +107,8 @@ body{
     background-color: #FFFFFF; 
 }
 
-.section-tree-h{
+.section-tree-h, 
+.section-four-h{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -117,60 +116,16 @@ body{
     color: #2e2f42;
 }
 
-.section-tree-description{
-    font-size: 16px;
+.footer{
+    background-color: #2e2f42;
+}
+
+.footer-link{
+    font-family:'Raleway', sans-serif;
+    font-weight: 500;     
+}
+.footer-span{
+    color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
-}  
-
-
-
-/* h2{
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 36px;
-    letter-spacing: 2%;
 }
-
-h3{
-    font-family: 'Roboto', sans-serif;
-    font-weight: medium;
-    font-size: 20px;
-    letter-spacing: 2%; 
-}
-
-ul{
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
-}
-
-p{
-    font-family: 'Roboto', sans-serif;
-    font-weight: regular;
-    font-size: 12px;
-    line-height: 14px;
-    letter-spacing: 4%;
-}
-    
-button{
-    font-family: 'Roboto', sans-serif;
-    font-weight: medium;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 4%; 
-}
-
-a{
-    font-family: 'Roboto', sans-serif;
-    font-weight: regular;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
-    text-decoration: underline;
-}
-
-    
- */
