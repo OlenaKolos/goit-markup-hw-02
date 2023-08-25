@@ -82,7 +82,7 @@ body{
     color: #2e2f42;
 }
 .section-description-list, 
-.section-tree-description
+.section-tree-description,
 .section-four-description{
     font-size: 16px;
     line-height: 1.5;
@@ -111,7 +111,7 @@ body{
 .section-four-h{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -125,6 +125,9 @@ body{
     font-weight: 500;     
 }
 .footer-span{
+    color: #F4F4FD;   
+}
+.footer-description{
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
