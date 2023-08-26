@@ -88,7 +88,7 @@ body {
 
 .section-two-list,
 .section-four-list {
-    list-style: none;
+    list-style-type: none;
 }
 
 .section-tree-list {
